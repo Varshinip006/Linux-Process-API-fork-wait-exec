@@ -22,8 +22,8 @@ Write the C Program using Linux Process API - fork(), wait(), exec()
 Test the C Program for the desired output. 
 
 # PROGRAM:
-## developed by: Mahajanani.R
-## Register number: 212224230147
+## Developed by: Priya Varshini P
+## Register number: 212224240119
 
 ## C Program to print process ID and parent Process ID using Linux API system calls
 ```
